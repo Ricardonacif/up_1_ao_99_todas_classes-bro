@@ -168,6 +168,7 @@ automacro questEden12_iniciando {
     BaseLevel 12..17
     exclusive 1
     QuestInactive 7128
+    ConfigKeyNot membroDoEden sim
     ConfigKeyNot fazerQuestEden nao
     ConfigKeyNot naSequenciaDeSalvamento true
     ConfigKeyNot quest_eden em_curso
